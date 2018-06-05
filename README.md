@@ -1,6 +1,6 @@
 # How to pass environment variables, defined in a file, to a consumer
 
-Based on this answer at [stackoverflow](https://stackoverflow.com/a/20909045/90800).
+Based on this [answer](https://stackoverflow.com/a/20909045/90800) at stackoverflow.
 
 Running the sample:
 
